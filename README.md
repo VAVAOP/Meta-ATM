@@ -16,7 +16,9 @@ This Program Shows What Are The Basic Function That You Need To Do Transactions 
 After Going Through Important Files Like Contract(Assesment.sol),Index.js,deploy.js You Are REady To Fire Your Web3 Page Using React Follow these Instructions To Successfully run The Program
 *First Add Two More Terminal (bash Terminals) By Clicking(+)icon On Terminal
 *Inside The First Terminal Type The Code:
-```wsss````
+````
+npm i
+````
 
 
 ## Authors
