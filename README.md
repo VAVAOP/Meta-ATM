@@ -43,17 +43,27 @@ Name:Whatever You Like
 Chain ID:31337
 Currency Symbol:ETH
 ````
-##Add Owners Account To the NetWork
+## Add Owners Account To the NetWork
 *After Sucessfully Adding Your NetWork You Need To Import Owners Account To Your Newly Created NetWork
 *For That Copy th Private Key Of Account No :"0" From The Second Terminal and Import It Yuor NetWork By Clickung On Add Account 
 *After That You Are Ready To Call Any funtions On Contract Using The Buttons And Text Box Play With The Values And Change The Color of Button and WebPage
+## Help
+*After Sucessfully Deploying All The Steps There Is A Chance That Your Transcation Fails Due To Null Error
+*To Fix NullError You Need To Clear The Tab Data Of Your Wallet By Clicking :
+````
+settings-->Advanced-->Network-->Clear activity tab data
+````
+Still Facing Some Unknown Error !!!Feel Free To Contact Me On My Gmail For Futher Clarification:
+````
+iamoneofthechoosen1@gmail.com
+````
 
 ## Authors
 
-Metacrafter Chris  
-[@metacraftersio](https://twitter.com/metacraftersio)
+Dabi 
+[@Dabi](iamoneofthechoosen1@gmial.com)
 
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the [Dabi] License - see the LICENSE.md file for details
