@@ -15,11 +15,38 @@ This Program Shows What Are The Basic Function That You Need To Do Transactions 
 
 After Going Through Important Files Like Contract(Assesment.sol),Index.js,deploy.js You Are REady To Fire Your Web3 Page Using React Follow these Instructions To Successfully run The Program
 *First Add Two More Terminal (bash Terminals) By Clicking(+)icon On Terminal
-*Inside The First Terminal Type The Code:
+*Inside The First Terminal Type The Following Code:
 ````
 npm i
 ````
+*Inside The Second Terminal Type The Following Code:
+````
+npx hardhat node
+````
+*Inside The Third Terminal Type The Following Code:
+````
+npx hardhat run --network localhost scripts/deploy.js
+````
+*After That Come Back To The Firt Terminal Type The Following Code To Launch The Front End:
+````
+npm run dev
+````
+*After this, the project will be running on your localhost. Typically at http://localhost:3000/
 
+## Connect Wallet To The Page
+*In Order To connect Wallet to Your Web3 Page You Need To Have A Wallet At First place (MetaMask Wallet Is Required)
+*After that You Need To Get Your RPC URL Which Will Be Provided In Your Second Terminal
+But If You Are Running The program On Online IDE Like Gitpod,Remix Instead Of RPC Url You Need Port URL Mainly Port(8475) Which Can Be Obtained From Port Tab Next To The Terminal
+*For Other Details Of Net Work Follow Below Info
+````
+Name:Whatever You Like
+Chain ID:31337
+Currency Symbol:ETH
+````
+##Add Owners Account To the NetWork
+*After Sucessfully Adding Your NetWork You Need To Import Owners Account To Your Newly Created NetWork
+*For That Copy th Private Key Of Account No :"0" From The Second Terminal and Import It Yuor NetWork By Clickung On Add Account 
+*After That You Are Ready To Call Any funtions On Contract Using The Buttons And Text Box Play With The Values And Change The Color of Button and WebPage
 
 ## Authors
 
